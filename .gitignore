@@ -1,0 +1,21 @@
+# local agent / IDE
+.coworker/
+.nanobot/
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# secrets
+.env
+.env.*
+
+# crawl runtime (resume locally; not the published dataset)
+data/catalog/*.log
+data/catalog/*_crawl_state.json
+data/catalog/*_errors.jsonl
+data/catalog/*_scored.jsonl

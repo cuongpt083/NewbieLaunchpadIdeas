@@ -1,0 +1,2323 @@
+{
+  "checked_at": "2026-11-10T11:38:18.029763+00:00",
+  "resolved": 102,
+  "unresolved": 6,
+  "results": [
+    {
+      "name": "Product Hunt",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.producthunt.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.producthunt.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.producthunt.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "BetaList",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://betalist.com",
+      "title": "Discover and get early access to tomorrow&#39;s startups | BetaList",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://betalist.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://betalist.com",
+          "title": "Discover and get early access to tomorrow&#39;s startups | BetaList",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "TrustMRR",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://trustmrr.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://trustmrr.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://trustmrr.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Uneed",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.uneed.best",
+      "title": "Daily Product Launches: Discover the Best New Tools | Uneed",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.uneed.best",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.uneed.best",
+          "title": "Daily Product Launches: Discover the Best New Tools | Uneed",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "TinyLaunch",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.tinylaunch.com/",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://tinylaun.ch",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.tinylaunch.com/",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Indie Hackers",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.indiehackers.com",
+      "title": "Indie Hackers: Work Together to Build Profitable Online Businesses",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.indiehackers.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.indiehackers.com",
+          "title": "Indie Hackers: Work Together to Build Profitable Online Businesses",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://news.ycombinator.com",
+      "title": "Hacker News",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://news.ycombinator.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://news.ycombinator.com",
+          "title": "Hacker News",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Tiny Startup",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.holtwork.com/",
+      "title": "HOLTWORK",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.tinystartups.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.tinystartups.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://tinystartups.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://tinystartups.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://www.tinystartup.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.tinystartup.com",
+          "title": "",
+          "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+        },
+        {
+          "url": "https://tinystartup.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.holtwork.com/",
+          "title": "HOLTWORK",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "PeerPush",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://peerpush.com/",
+      "title": "PeerPush - Get Found by People and AI",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://peerpush.net",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://peerpush.com/",
+          "title": "PeerPush - Get Found by People and AI",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SideProjectors",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.sideprojectors.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.sideprojectors.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.sideprojectors.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "DevHunt",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://devhunt.org",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://devhunt.org",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://devhunt.org",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Launching Next",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.launchingnext.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.launchingnext.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.launchingnext.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Microlaunch",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://microlaunch.net",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://microlaunch.net",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://microlaunch.net",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Launch Directories",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://launchdirectories.com/",
+      "title": "100+ Best Startup Directories to Launch | LaunchDirectories",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.launchdirectories.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://launchdirectories.com/",
+          "title": "100+ Best Startup Directories to Launch | LaunchDirectories",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "StartupBase",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://startupbase.io",
+      "title": "StartupBase - Launch and discover new products every day",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://startupbase.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://startupbase.io",
+          "title": "StartupBase - Launch and discover new products every day",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "ShowMeBestAI",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://showmebest.ai/",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.showmebest.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://showmebest.ai/",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Trendy Startups",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://trendystartups.com",
+      "title": "Trendy Startups - Discover startups and blogging. Expedite your Startup and share blog post",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://trendystartups.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://trendystartups.com",
+          "title": "Trendy Startups - Discover startups and blogging. Expedite your Startup and share blog post",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Software Advice",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.softwareadvice.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.softwareadvice.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.softwareadvice.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "There's an AI for that",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.theresanaiforthat.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://theresanaiforthat.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://theresanaiforthat.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://www.theresanaiforthat.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.theresanaiforthat.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "AlternativeTo",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://alternativeto.net",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://alternativeto.net",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://alternativeto.net",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "OpenAlternative",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://openalternative.co",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://openalternative.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://openalternative.co",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SaaSHub",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.saashub.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.saashub.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.saashub.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Toolfolio",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://toolfolio.com/",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.toolfolio.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://toolfolio.com/",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "LibHunt",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.libhunt.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.libhunt.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.libhunt.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "SaaS Genius",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.saasgenius.com",
+      "title": "Find the Best Value SaaS Products On the Market (2025)",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.saasgenius.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.saasgenius.com",
+          "title": "Find the Best Value SaaS Products On the Market (2025)",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "FoundrList",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://foundrlist.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://foundrlist.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://foundrlist.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Stacker News",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://stacker.news",
+          "ok": true,
+          "status": 202,
+          "final_url": "https://stacker.news",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "PitchWall",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://pitchwall.co",
+      "title": "PitchWall - Discover New AI Products Every Day",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://pitchwall.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://pitchwall.co",
+          "title": "PitchWall - Discover New AI Products Every Day",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "API List",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://apilist.fun",
+      "title": "API List: A public list of free APIs for programmers",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://apilist.fun",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://apilist.fun",
+          "title": "API List: A public list of free APIs for programmers",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "MakerPad",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.makerpad.co",
+      "title": "MakerPad — Build AI companies that run themselves | MakerPad",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.makerpad.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.makerpad.co",
+          "title": "MakerPad — Build AI companies that run themselves | MakerPad",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Dan Recommends",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.danrecommends.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://danrecommends.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://danrecommends.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://www.danrecommends.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.danrecommends.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Startup Buffer",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://startupbuffer.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://startupbuffer.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://startupbuffer.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "AppSumo",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://appsumo.com",
+      "title": "AppSumo - Lifetime Software Deals for Entrepreneurs",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://appsumo.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://appsumo.com",
+          "title": "AppSumo - Lifetime Software Deals for Entrepreneurs",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SEO Wins",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>",
+      "tried": [
+        {
+          "url": "https://seowins.co",
+          "ok": false,
+          "status": null,
+          "final_url": "https://seowins.co",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://www.seowins.co",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.seowins.co",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://seowins.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://seowins.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://www.seowins.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.seowins.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        }
+      ]
+    },
+    {
+      "name": "RocketHub",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.rockethub.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.rockethub.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.rockethub.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "StackSocial",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.stacksocial.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.stacksocial.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.stacksocial.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SaaS Mantra",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.saasmantra.com/",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://saasmantra.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.saasmantra.com/",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SaaS Warrior",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://saaswarrior.com",
+      "title": "Home - SaasWarrior",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://saaswarrior.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://saaswarrior.com",
+          "title": "Home - SaasWarrior",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "LTD Hunt",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://ltdhunt.com",
+      "title": "LTDHunt - The Community-Driven Hub for SaaS Lifetime Deals",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://ltdhunt.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://ltdhunt.com",
+          "title": "LTDHunt - The Community-Driven Hub for SaaS Lifetime Deals",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "KEN Moo",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://kenmoo.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://kenmoo.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://kenmoo.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Prime Club",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://primeclub.co",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://primeclub.co",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://primeclub.co",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "SaaSZilla",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://saaszilla.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://saaszilla.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://saaszilla.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Fazier",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://fazier.com",
+      "title": "Fazier – Find your next favourite product, every day.",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://fazier.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://fazier.com",
+          "title": "Fazier – Find your next favourite product, every day.",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Peerlist",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://peerlist.io",
+      "title": "Peerlist | The Professional Network for builders to show and tell!",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://peerlist.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://peerlist.io",
+          "title": "Peerlist | The Professional Network for builders to show and tell!",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Next Gen Tools",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.nextgentools.io",
+      "title": "Parked Domain name on Hostinger DNS system",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.nextgentools.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.nextgentools.io",
+          "title": "Parked Domain name on Hostinger DNS system",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Sustainability Softwares",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.sustainabilitysoftwares.com/",
+      "title": "Sustainability Software Directory: ESG &amp; Carbon Tools",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://sustainabilitysoftwares.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.sustainabilitysoftwares.com/",
+          "title": "Sustainability Software Directory: ESG &amp; Carbon Tools",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Saas Baba",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "URLError: <urlopen error [Errno 101] Network is unreachable>",
+      "tried": [
+        {
+          "url": "https://saasbaba.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://saasbaba.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://www.saasbaba.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.saasbaba.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        }
+      ]
+    },
+    {
+      "name": "PromptZone",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.promptzone.com/",
+      "title": "PromptZone - AI Prompts, Guides and Tools for Builders",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://promptzone.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.promptzone.com/",
+          "title": "PromptZone - AI Prompts, Guides and Tools for Builders",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Futurepedia",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.futurepedia.io",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.futurepedia.io",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.futurepedia.io",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Toolkitly",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.toolkitly.com/",
+      "title": "Find &amp; Compare 733+ AI Tools by Task | Toolkitly",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://toolkitly.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.toolkitly.com/",
+          "title": "Find &amp; Compare 733+ AI Tools by Task | Toolkitly",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "LaunchIgniter",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://launchigniter.com",
+      "title": "LaunchIgniter - Discover and Launch Amazing Products",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://launchigniter.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://launchigniter.com",
+          "title": "LaunchIgniter - Discover and Launch Amazing Products",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Firsto",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://firsto.co",
+      "title": "Firsto – Fair Product Launch Platform Where Every Launch Gets Seen",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://firsto.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://firsto.co",
+          "title": "Firsto – Fair Product Launch Platform Where Every Launch Gets Seen",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Indie Tools",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "URLError: <urlopen error timed out>",
+      "tried": [
+        {
+          "url": "https://indietools.io",
+          "ok": false,
+          "status": null,
+          "final_url": "https://indietools.io",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://www.indietools.io",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.indietools.io",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://indietools.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://indietools.com",
+          "title": "",
+          "error": "URLError: <urlopen error timed out>"
+        }
+      ]
+    },
+    {
+      "name": "Manta",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://manta.so",
+      "title": "Manta Tech - Building B2B productivity tools",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://manta.tools",
+          "ok": false,
+          "status": null,
+          "final_url": "https://manta.tools",
+          "title": "",
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "url": "https://www.manta.tools",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.manta.tools",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://getmanta.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://getmanta.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+        },
+        {
+          "url": "https://manta.so",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://manta.so",
+          "title": "Manta Tech - Building B2B productivity tools",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Indie Deals",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://indiedeals.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://indiedeals.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://indiedeals.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "PayOnceUseForever",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://payonceuseforever.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://payonceuseforever.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://payonceuseforever.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Slocco",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://slocco.com",
+      "title": "Slocco: Launch &amp; Discover Apps, SaaS and Tech Products",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://slocco.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://slocco.com",
+          "title": "Slocco: Launch &amp; Discover Apps, SaaS and Tech Products",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "ToolFame",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://toolfame.com/",
+      "title": "Free Online Tools Directory: 1000+ Best Tools | ToolFame",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.toolfame.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://toolfame.com/",
+          "title": "Free Online Tools Directory: 1000+ Best Tools | ToolFame",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "GPTStore",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://gptstore.ai",
+      "title": "Find the best GPTs of ChatGPT | GPT Store",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://gptstore.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://gptstore.ai",
+          "title": "Find the best GPTs of ChatGPT | GPT Store",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "AlterOpen",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.alteropen.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://alteropen.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://alteropen.com",
+          "title": "",
+          "error": "URLError: <urlopen error timed out>"
+        },
+        {
+          "url": "https://www.alteropen.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.alteropen.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SaaS Gallery",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.saasgallery.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://saasgallery.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://saasgallery.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+        },
+        {
+          "url": "https://www.saasgallery.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.saasgallery.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Aura Plus Plus",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://auraplusplus.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://auraplusplus.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://auraplusplus.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "That AI Collection",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://thataicollection.com/",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.thataicollection.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://thataicollection.com/",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "BasedTools",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.basedtools.ai/",
+      "title": "Most Based AI Tools &amp; Tools Directory - BasedTools",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://basedtools.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.basedtools.ai/",
+          "title": "Most Based AI Tools &amp; Tools Directory - BasedTools",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SaaS Pirate",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://saaspirate.com/",
+      "title": "576+ SaaS Lifetime Deals Software &amp; Discounts 2026 | SaaSPirate",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.saaspirate.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://saaspirate.com/",
+          "title": "576+ SaaS Lifetime Deals Software &amp; Discounts 2026 | SaaSPirate",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Product Canyon",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://productcanyon.com",
+      "title": "Product Canyon - Lifetime Subscription Deals for Your Business",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://productcanyon.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://productcanyon.com",
+          "title": "Product Canyon - Lifetime Subscription Deals for Your Business",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Deal Mirror",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://dealmirror.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://dealmirror.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://dealmirror.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Dealify",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://dealify.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://dealify.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://dealify.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Goodfirms",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.goodfirms.co",
+      "title": "Goodfirms - B2B Reviews &amp; Ratings you can trust",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.goodfirms.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.goodfirms.co",
+          "title": "Goodfirms - B2B Reviews &amp; Ratings you can trust",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "AI Agent Store",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://aiagentstore.ai",
+      "title": "AI Agent Store | AI Agent Marketplace &amp; AI Workers",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://aiagentstore.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://aiagentstore.ai",
+          "title": "AI Agent Store | AI Agent Marketplace &amp; AI Workers",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "BroUseAI",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.brouseai.com/",
+      "title": "BroUseAI: Discover AI Tools, Launch Videos and AI Terms",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://brouseai.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.brouseai.com/",
+          "title": "BroUseAI: Discover AI Tools, Launch Videos and AI Terms",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Altern",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://altern.ai",
+      "title": "Altern: Best AI Tools and Agents for 2026",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://altern.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://altern.ai",
+          "title": "Altern: Best AI Tools and Agents for 2026",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "BestWebDesignTools",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://bestwebdesigntools.com",
+      "title": "Discover Best Web Design Tools in The Internet",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://bestwebdesigntools.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://bestwebdesigntools.com",
+          "title": "Discover Best Web Design Tools in The Internet",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "MadGenius",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://madgenius.co",
+      "title": "Mad Genius",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://madgenius.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://madgenius.co",
+          "title": "Mad Genius",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "BotsFloor",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+      "tried": [
+        {
+          "url": "https://botsfloor.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://botsfloor.com",
+          "title": "",
+          "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+        },
+        {
+          "url": "https://www.botsfloor.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.botsfloor.com",
+          "title": "",
+          "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+        }
+      ]
+    },
+    {
+      "name": "AIDir Wiki",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://lin-k.to/",
+      "title": "Linkto — 800+ SaaS Directories &amp; 75+ Launch Sites (Free)",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.aidir.wiki",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.aidir.wiki",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://aidir.wiki",
+          "ok": false,
+          "status": null,
+          "final_url": "https://aidir.wiki",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://aidirectory.wiki",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://lin-k.to/",
+          "title": "Linkto — 800+ SaaS Directories &amp; 75+ Launch Sites (Free)",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Look AI Tools",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://lookaitools.com",
+      "title": "An AI Tools directory with over 3000+ AI Tools listed - LookAITools",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://lookaitools.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://lookaitools.com",
+          "title": "An AI Tools directory with over 3000+ AI Tools listed - LookAITools",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "The AI Generation",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://aigeneration.co",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://theaigeneration.com",
+          "ok": false,
+          "status": 500,
+          "final_url": "https://theaigeneration.com",
+          "title": "",
+          "error": "HTTP 500"
+        },
+        {
+          "url": "https://www.theaigeneration.com",
+          "ok": false,
+          "status": 500,
+          "final_url": "https://www.theaigeneration.com",
+          "title": "",
+          "error": "HTTP 500"
+        },
+        {
+          "url": "https://aigeneration.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://aigeneration.co",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Waild World",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://waildworld.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://waild.world",
+          "ok": false,
+          "status": null,
+          "final_url": "https://waild.world",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://www.waild.world",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.waild.world",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://waildworld.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://waildworld.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Wavel",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.wavel.io/",
+      "title": "Best AI Tools &amp; AI Agent Marketplace - 3,500+ Tools, Wavel",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://wavel.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.wavel.io/",
+          "title": "Best AI Tools &amp; AI Agent Marketplace - 3,500+ Tools, Wavel",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Indie Products",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://indieproducts.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://indieproducts.co",
+          "ok": false,
+          "status": null,
+          "final_url": "https://indieproducts.co",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://www.indieproducts.co",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.indieproducts.co",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+        },
+        {
+          "url": "https://indieproducts.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://indieproducts.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Invent List",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://inventlist.com",
+      "title": "Narrative Stream | InventList",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://inventlist.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://inventlist.com",
+          "title": "Narrative Stream | InventList",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Hack the Prompt",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.hacktheprompt.com/",
+      "title": "Hack the Prompt — Site Closed",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://hacktheprompt.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.hacktheprompt.com/",
+          "title": "Hack the Prompt — Site Closed",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Startup Heroes",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://startupheroes.com",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://startupheroes.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://startupheroes.com",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "AI Marketing Directory",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.aimarketing.directory/",
+      "title": "AI Tools For Business | AI Marketing Directory",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://aimarketing.directory",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.aimarketing.directory/",
+          "title": "AI Tools For Business | AI Marketing Directory",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "RankYourAI",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://rankyour.ai",
+      "title": "RankYour.ai — Independent AI Agent Trust Infrastructure",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://rankyour.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://rankyour.ai",
+          "title": "RankYour.ai — Independent AI Agent Trust Infrastructure",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "EarlyHunt",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://earlyhunt.com",
+      "title": "EarlyHunt — AI Hunt Platform for Weekly Launches &amp; Early Adopters | EarlyHunt",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://earlyhunt.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://earlyhunt.com",
+          "title": "EarlyHunt — AI Hunt Platform for Weekly Launches &amp; Early Adopters | EarlyHunt",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Tekpon",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://tekpon.com",
+      "title": "Tekpon - SaaS Procurement & Software Buying Platform 2026",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://tekpon.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://tekpon.com",
+          "title": "Tekpon - SaaS Procurement & Software Buying Platform 2026",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Dokey AI",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://dokeyai.com",
+      "title": "DokeyAI - Best AI Websites and Tools | Latest AI Products Directory and Showcase",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://dokeyai.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://dokeyai.com",
+          "title": "DokeyAI - Best AI Websites and Tools | Latest AI Products Directory and Showcase",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Appscribed",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://appscribed.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://appscribed.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://appscribed.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Open Tools",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://opentools.ai",
+      "title": "OpenTools AI Tools Directory — 2,500+ Tools &amp; Models",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://opentools.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://opentools.ai",
+          "title": "OpenTools AI Tools Directory — 2,500+ Tools &amp; Models",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "SEOFAI",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://seofai.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://seofai.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://seofai.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Startups FYI",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.startups.fyi/",
+      "title": "Discover Profitable Startups &amp; Online Business Ideas - Startups.fyi",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://startups.fyi",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.startups.fyi/",
+          "title": "Discover Profitable Startups &amp; Online Business Ideas - Startups.fyi",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "AI Tool Trek",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://aitooltrek.com",
+      "title": "Explore AI Tool Trek – The Ultimate AI Tools Directory in Nov 2026",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://aitooltrek.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://aitooltrek.com",
+          "title": "Explore AI Tool Trek – The Ultimate AI Tools Directory in Nov 2026",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Powerusers",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://powerusers.ai/",
+      "title": "AI Tools Directory And Resources | Powerusers AI",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.powerusers.ai",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://powerusers.ai/",
+          "title": "AI Tools Directory And Resources | Powerusers AI",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "AI Parabellum",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://aiparabellum.com",
+      "title": "AI Parabellum | AI Tools Directory &amp; Daily AI News",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://aiparabellum.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://aiparabellum.com",
+          "title": "AI Parabellum | AI Tools Directory &amp; Daily AI News",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Serchen",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://serchen.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.serchen.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.serchen.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+        },
+        {
+          "url": "https://serchen.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://serchen.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "RobinGood",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://robingood.com",
+      "title": "Robin Good | Communication Design, Trust Building, Content Curation",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://robingood.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://robingood.com",
+          "title": "Robin Good | Communication Design, Trust Building, Content Curation",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Affiliate Watch",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://affiliatewatch.com",
+      "title": "affiliatewatch.com&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;affiliate marketing Resources and Information.",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://affiliatewatch.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://affiliatewatch.com",
+          "title": "affiliatewatch.com&nbsp;-&nbsp;This website is for sale!&nbsp;-&nbsp;affiliate marketing Resources and Information.",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "IndieHunt",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://indiehunt.io",
+      "title": "IndieHunt — Launch Your AI Product | Weekly Competition &amp; Dofollow SEO",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.indiehunt.com",
+          "ok": false,
+          "status": 429,
+          "final_url": "https://www.indiehunt.com",
+          "title": "",
+          "error": "HTTP 429"
+        },
+        {
+          "url": "https://indiehunt.com",
+          "ok": false,
+          "status": 429,
+          "final_url": "https://indiehunt.com",
+          "title": "",
+          "error": "HTTP 429"
+        },
+        {
+          "url": "https://indiehunt.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://indiehunt.io",
+          "title": "IndieHunt — Launch Your AI Product | Weekly Competition &amp; Dofollow SEO",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Reviano",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://reviano.com",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://reviano.com",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://reviano.com",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "Nocode List",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://nocodelist.co/",
+      "title": "NoCodeList",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.nocodelist.co",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://nocodelist.co/",
+          "title": "NoCodeList",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Software World",
+      "resolved": true,
+      "ok": true,
+      "status": 403,
+      "final_url": "https://www.softwareworld.co",
+      "title": "",
+      "error": "HTTP 403",
+      "tried": [
+        {
+          "url": "https://www.softwareworld.co",
+          "ok": false,
+          "status": 403,
+          "final_url": "https://www.softwareworld.co",
+          "title": "",
+          "error": "HTTP 403"
+        }
+      ],
+      "note": "live_but_blocked"
+    },
+    {
+      "name": "AIxploria",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.aixploria.com",
+      "title": "Liste des Meilleures IA Gratuites &amp; Top 10 par Catégorie | AIxploria",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://www.aixploria.com",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://www.aixploria.com",
+          "title": "Liste des Meilleures IA Gratuites &amp; Top 10 par Catégorie | AIxploria",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Ctrlalt",
+      "resolved": false,
+      "ok": false,
+      "status": null,
+      "final_url": "",
+      "title": "",
+      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>",
+      "tried": [
+        {
+          "url": "https://ctrlalt.io",
+          "ok": false,
+          "status": null,
+          "final_url": "https://ctrlalt.io",
+          "title": "",
+          "error": "URLError: <urlopen error _ssl.c:1064: The handshake operation timed out>"
+        },
+        {
+          "url": "https://www.ctrlalt.io",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.ctrlalt.io",
+          "title": "",
+          "error": "URLError: <urlopen error _ssl.c:1064: The handshake operation timed out>"
+        },
+        {
+          "url": "https://ctrlalt.com",
+          "ok": false,
+          "status": null,
+          "final_url": "https://ctrlalt.com",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+        },
+        {
+          "url": "https://www.ctrlalt.dev",
+          "ok": false,
+          "status": null,
+          "final_url": "https://www.ctrlalt.dev",
+          "title": "",
+          "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+        }
+      ]
+    },
+    {
+      "name": "AI Hunter",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://aihunter.io",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://aihunter.io",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://aihunter.io",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Public APIs",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://publicapis.dev",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://publicapis.dev",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://publicapis.dev",
+          "title": "",
+          "error": ""
+        }
+      ]
+    },
+    {
+      "name": "Unikorn",
+      "resolved": true,
+      "ok": true,
+      "status": 200,
+      "final_url": "https://unikorn.vn",
+      "title": "",
+      "error": "",
+      "tried": [
+        {
+          "url": "https://unikorn.vn",
+          "ok": true,
+          "status": 200,
+          "final_url": "https://unikorn.vn",
+          "title": "",
+          "error": ""
+        }
+      ]
+    }
+  ]
+}

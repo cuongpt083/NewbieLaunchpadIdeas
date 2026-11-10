@@ -1,0 +1,11 @@
+id,name,official_url,subs,category,idea_source_value,fresher_clone_fit,description,source,verification
+1,Reddit,https://www.reddit.com,"r/SideProject, r/SaaS, r/IMadeThis, r/InternetIsBeautiful, r/startups",community,high,high,Show-and-tell + niche subs. @hridoyreh list riêng '30 places' luôn có Reddit.,x_hridoyreh_other_threads,V
+2,X / Twitter,https://x.com,indie hacker / build in public,community,high,medium,Kênh launch + build-in-public chính của vibe coder.,x_hridoyreh_other_threads,V
+3,LinkedIn,https://www.linkedin.com,,community,medium,low,Launch B2B / founder narrative.,x_hridoyreh_other_threads,V
+4,Facebook Groups,https://www.facebook.com/groups,Nghiên AI / niche groups,community,medium,medium,Chính bài nguồn nằm trong group Nghiên AI.,facebook_post,V
+5,Dev.to,https://dev.to,,community,medium,medium,Launch/devlog; có trong list backlink của @hridoyreh.,x_hridoyreh_other_threads,H
+6,GitHub / GitHub Pages,https://github.com,,community,high,high,Nơi vibe coder ship OSS; Pages DR rất cao trên list backlink.,x_hridoyreh_other_threads,V
+7,Chrome Web Store,https://chromewebstore.google.com,,marketplace,high,high,"Extension là dạng bài tập fresher rất hợp (1 job, 1 UI).",x_hridoyreh_other_threads,V
+8,Gumroad,https://gumroad.com,,marketplace,medium,medium,Digital product marketplace; indie hay dùng.,x_hridoyreh_other_threads,H
+9,SourceForge,https://sourceforge.net,,marketplace,low,low,"Listing OSS/commercial; DR cao, ý tưởng già.",x_hridoyreh_other_threads,V
+10,Discord / Slack communities,,"Indie Hackers Slack, niche Discords",community,medium,low,Launch trong cộng đồng kín; khó scrape ý tưởng hàng loạt.,x_hridoyreh_other_threads,H
