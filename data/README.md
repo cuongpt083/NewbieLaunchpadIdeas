@@ -27,6 +27,9 @@ Crawl tuần tự, robots, delay ≥10s. CLI ghi đúng các tên file này.
 | `unikorn.jsonl` | 210 sản phẩm đã parse (JSON-LD) + `extra.fresher_clone_fit` | có |
 | `unikorn_fresher.md` | Shortlist **auto** (scorer heuristic) | có |
 | `unikorn_fresher_hand.md` | Shortlist **tay** (49 giữ / 30 loại / 28 đề độc) | có |
+| `discover_tinylaunch.json`, `discover_uneed.json` | URL sitemap (22 314 / 11 710) | có |
+| `ideas_tinylaunch_recent.{md,jsonl}`, `ideas_uneed_recent.{md,jsonl}` | Mẫu sản phẩm gần đây, 115 mỗi nguồn (2 đợt) | có |
+| `*_recent_batch2.jsonl` | Đợt 2 (50 mỗi nguồn), đã gộp vào `.md` | có |
 | `unikorn_scored.jsonl` | Output `score` (trùng jsonl) | ignore |
 | `unikorn_crawl.log`, `unikorn_crawl_state.json` | Runtime resume | ignore |
 
